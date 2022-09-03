@@ -7,3 +7,6 @@ def test():
 
 def main():
     print("all")
+
+def fixbug():
+    print("fix a bug")
