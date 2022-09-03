@@ -10,3 +10,6 @@ def main():
 
 def fixbug():
     print("fix a bug")
+
+def fixup1():
+    print("fix aer')
