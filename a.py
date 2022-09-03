@@ -11,5 +11,12 @@ def main():
 def fixbug():
     print("fix a bug")
 
+
 def fixup1():
     print("fix aer')
+
+    print("helo go")
+
+def add():
+    print("add func1")
+
