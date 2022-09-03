@@ -4,3 +4,6 @@ def test():
     print("hello')
     i = i + 1
     j = j * i
+
+def hello():
+    print("ss")
